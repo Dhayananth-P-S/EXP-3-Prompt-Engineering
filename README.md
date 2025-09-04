@@ -47,7 +47,7 @@ Iterate and Refine: If the initial output is unsatisfactory, apply prompting bes
 
 5. Meta AI:
    The output from Meta AI is competent and provides a solid summary. It captures the main ideas and presents them in a readable format. However, its performance can sometimes be less consistent than the other models, depending on the complexity and niche of the topic.
-
+ <img width="531" height="367" alt="image" src="https://github.com/user-attachments/assets/d91e10d5-6714-4f6d-bfa7-965495c1ab1a" />
 ## Result
 1. ChatGPT (GPT-4o):
    Performance: High. The summary is factually correct and captures the essence of the document.
@@ -84,5 +84,4 @@ Iterate and Refine: If the initial output is unsatisfactory, apply prompting bes
 
    Response Quality: Good. The summary is functional and provides the necessary information. It is a solid performer but does not stand out significantly from the              competition in this specific use case.
 
- <img width="531" height="367" alt="image" src="https://github.com/user-attachments/assets/d91e10d5-6714-4f6d-bfa7-965495c1ab1a" />
 
